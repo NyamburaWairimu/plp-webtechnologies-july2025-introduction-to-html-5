@@ -1,1 +1,1 @@
-# plp-webtechnologies-july2025-introduction-to-html-5
+This is a html code for a Hotel Management System.
